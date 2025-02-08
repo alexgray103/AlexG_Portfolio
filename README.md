@@ -1,2 +1,2 @@
 # AlexG_Portfolio
-Engineering portfolio of Alexander Gray M.S. 
+Welcome to my portfolio! 🚀 Take a look at my projects and feel free to connect with me for collaboration opportunities.
