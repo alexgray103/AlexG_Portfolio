@@ -1,0 +1,15 @@
+title: My Portfolio
+author: Your Name
+email: your-email@example.com
+description: >- # Used for SEO
+  A portfolio site showcasing my projects, skills, and experience.
+
+theme: minima # Use GitHub's default Jekyll theme (or change later)
+baseurl: "" # Leave blank for GitHub Pages
+url: "https://your-username.github.io" # Your site URL
+
+# Navigation links
+nav_links:
+  Home: "/"
+  About: "/about"
+  Projects: "/projects"
