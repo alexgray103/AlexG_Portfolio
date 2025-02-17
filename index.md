@@ -14,17 +14,17 @@ title: Welcome
 
 ### 🔬 **Projects**
 <a href="/projects">
-    <img src="assets/images/projects-thumbnail.jpg" alt="Projects" class="thumbnail">
+    <img src="assets/images/birefringence_corticalInjury.png" alt="Projects" class="thumbnail">
 </a>
 
 ### 📖 **Publications**
 <a href="/publications">
-    <img src="assets/images/publications-thumbnail.jpg" alt="Publications" class="thumbnail">
+    <img src="assets/images/birefringence_corticalInjury.png" alt="Publications" class="thumbnail">
 </a>
 
 ### ℹ️ **About Me**
 <a href="/about">
-    <img src="assets/images/about-thumbnail.jpg" alt="About" class="thumbnail">
+    <img src="assets/images/birefringence_corticalInjury.png" alt="About" class="thumbnail">
 </a>
 
 ---
