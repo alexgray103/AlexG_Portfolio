@@ -6,9 +6,10 @@ author:
   name: Alexander J. Gray
   email: algray@bu.edu
 
-# Disable unwanted blog features from the minima theme
-theme: minima 
-show_excerpts: false
+# Remove theme (no Minima)
+theme: null  
+
+# Jekyll functionality without a theme
 include: ["_pages"]
 paginate: false
 permalink: pretty
@@ -16,22 +17,14 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Navigation links
+# Navigation Links
 nav_links:
   Home: "/"
   About: "/about"
   Projects: "/projects"
 
-# Remove blog functionality (if not using posts)
+# Enable custom pages (instead of blog posts)
 collections:
   pages:
     output: true
     permalink: /:path/
-
-# Hide default blog sidebar
-minima:
-  skin: auto
-  social_links: []
-  show_excerpts: false
-  date_format: "%b %-d, %Y"
-  search: false
