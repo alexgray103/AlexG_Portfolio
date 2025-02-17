@@ -12,8 +12,15 @@ This is a simple Jekyll site using the **Hacker theme**.
 - 🤖 **Machine Learning & AI Projects**
 - 🛠 **Engineering & Development**
 
-### 🟢 Explore More:
-- [🔍 About Me](/about)
-- [📂 Projects](/projects)
+### 🔬 **Projects**
+[![Projects](assets/images/birefringence_corticalInjury.png)](/projects)
+
+### 📖 **Publications**
+[![Publications](assets/images/birefringence_corticalInjury.png)](/publications)
+
+### ℹ️ **About Me**
+[![About](assets/images/profile.jpg)](/about)
+
+---
 
 ---
