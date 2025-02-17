@@ -31,6 +31,7 @@ img {
     border-radius: 5px;
     margin: 10px 0;
 }
+
 /* Grid layout for homepage sections */
 .grid-container {
     display: flex;
