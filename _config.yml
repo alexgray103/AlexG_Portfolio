@@ -1,17 +1,37 @@
 title: Alexander J. Gray Engineering Portfolio
-description: "A portfolio for my experience in biomedical engineering, specializing in biomedical optics, instrumentation, image processing and machine learning"
+description: "A portfolio for my experience in biomedical engineering, specializing in biomedical optics, instrumentation, image processing, and machine learning"
 baseurl: ""
 url: "https://alexgray103.github.io"
 author:
   name: Alexander J. Gray
   email: algray@bu.edu
 
-
-theme: minima # Use GitHub's default Jekyll theme (or change later)
-baseurl: "" # Leave blank for GitHub Pages
+# Disable unwanted blog features from the minima theme
+theme: minima 
+show_excerpts: false
+include: ["_pages"]
+paginate: false
+permalink: pretty
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Navigation links
 nav_links:
   Home: "/"
   About: "/about"
   Projects: "/projects"
+
+# Remove blog functionality (if not using posts)
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Hide default blog sidebar
+minima:
+  skin: auto
+  social_links: []
+  show_excerpts: false
+  date_format: "%b %-d, %Y"
+  search: false
