@@ -12,9 +12,9 @@ title: Welcome
 ## **🔬 About Me**
 I am a biomedical engineer specializing in **biomedical optics, image processing, and machine learning** for medical applications.  
 My research focuses on:
-- **Miniature ESS for Cancer Imaging**: Developing miniaturized imaging systems for real-time cancer diagnostics. 
-- **BRM for Myelin Degeneration**: Using optical and AI techniques to analyze myelin changes in neurodegenerative diseases.
-- **Advanced Imaging & AI**: Applying computational methods to enhance biomedical image analysis.
+**Miniature ESS for Cancer Imaging**: Developing miniaturized imaging systems for real-time cancer diagnostics. 
+**BRM for Myelin Degeneration**: Using optical and AI techniques to analyze myelin changes in neurodegenerative diseases.
+**Advanced Imaging & AI**: Applying computational methods to enhance biomedical image analysis.
 
 ## 📂 Explore My Work:
 <div class="grid-container">
