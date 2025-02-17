@@ -2,10 +2,6 @@
 layout: default
 title: Welcome
 ---
----
-layout: default
-title: Home
----
 
 # 👨‍🔬 Alexander J. Gray – Biomedical Engineer 🚀
 
