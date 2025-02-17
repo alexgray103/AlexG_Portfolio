@@ -1,15 +1,9 @@
 ---
-layout: page
-title: Projects
-permalink: /projects/
+layout: default
+title: Home
 ---
 
-# My Projects
+# Welcome to My Website 🎉
 
-## High-throughput quantitative birefringence microscope for studying structural alterations to myelin strucuture in neurodegeneration
-- Develop and build a birefringence microscope to study the strcutural changes that occur in various neurological disorders and in normal aging
-- [🔗 View on GitHub](https://github.com/alexgray103/BiRScope)
-
-## Project 2
-- Object detection Used for annotating images of structurally damaged myelin structure
-- [🔗 View on GitHub](https://github.com/alexgray103/Object_detection_Annotation)
+Hi! I'm Alexander, a researcher who is deeply interested in developing novel and impactful biomedical technologies   
+Explore my [Bio](/bio), [Research](/research), and [Projects](/projects).

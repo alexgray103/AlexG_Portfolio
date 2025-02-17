@@ -1,5 +1,5 @@
-title: My Portfolio
-description: "A portfolio site showcasing my projects"
+title: Alexander J. Gray Engineering Portfolio
+description: "A portfolio for my experience in biomedical engineering, specializing in biomedical optics, instrumentation, image processing and machine learning"
 baseurl: ""
 url: "https://alexgray103.github.io"
 author:
@@ -9,7 +9,6 @@ author:
 
 theme: minima # Use GitHub's default Jekyll theme (or change later)
 baseurl: "" # Leave blank for GitHub Pages
-url: "https://your-username.github.io" # Your site URL
 
 # Navigation links
 nav_links:
