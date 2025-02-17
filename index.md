@@ -13,18 +13,18 @@ title: Welcome
 ## 📂 Explore My Work:
 
 ### 🔬 **Projects**
-<a href="/projects">
-    <img src="assets/images/birefringence_corticalInjury.png" alt="Projects" class="thumbnail">
+<a href="{{ site.baseurl }}/projects">
+    <img src="{{ site.baseurl }}/assets/images/projects-thumbnail.jpg" alt="Projects" class="thumbnail">
 </a>
 
 ### 📖 **Publications**
-<a href="/publications">
-    <img src="assets/images/birefringence_corticalInjury.png" alt="Publications" class="thumbnail">
+<a href="{{ site.baseurl }}/publications">
+    <img src="{{ site.baseurl }}/assets/images/publications-thumbnail.jpg" alt="Publications" class="thumbnail">
 </a>
 
 ### ℹ️ **About Me**
-<a href="/about">
-    <img src="assets/images/birefringence_corticalInjury.png" alt="About" class="thumbnail">
+<a href="{{ site.baseurl }}/about">
+    <img src="{{ site.baseurl }}/assets/images/about-thumbnail.jpg" alt="About" class="thumbnail">
 </a>
 
 ---
