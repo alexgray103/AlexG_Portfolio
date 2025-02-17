@@ -12,19 +12,27 @@ title: Welcome
 
 ## 📂 Explore My Work:
 
-### 🔬 **Projects**
-<a href="{{ site.baseurl }}/projects">
-    <img src="{{ site.baseurl }}/assets/images/projects-thumbnail.jpg" alt="Projects" class="thumbnail">
-</a>
 
-### 📖 **Publications**
-<a href="{{ site.baseurl }}/publications">
-    <img src="{{ site.baseurl }}/assets/images/publications-thumbnail.jpg" alt="Publications" class="thumbnail">
-</a>
-
-### ℹ️ **About Me**
-<a href="{{ site.baseurl }}/about">
-    <img src="{{ site.baseurl }}/assets/images/about-thumbnail.jpg" alt="About" class="thumbnail">
-</a>
-
+<div class="grid-container">
+    <div class="grid-item">
+        <a href="{{ site.baseurl }}/projects">
+            <img src="{{ site.baseurl }}/assets/images/birefringence_corticalInjury.png" alt="Projects" class="thumbnail">
+            <h3>Projects</h3>
+        </a>
+    </div>
+    
+    <div class="grid-item">
+        <a href="{{ site.baseurl }}/publications">
+            <img src="{{ site.baseurl }}/assets/images/birefringence_corticalInjury.png" alt="Publications" class="thumbnail">
+            <h3>Publications</h3>
+        </a>
+    </div>
+    
+    <div class="grid-item">
+        <a href="{{ site.baseurl }}/about">
+            <img src="{{ site.baseurl }}/assets/images/profile.jpg" alt="About" class="thumbnail">
+            <h3>About Me</h3>
+        </a>
+    </div>
+</div>
 ---
