@@ -1,7 +1,7 @@
 title: "Alexander J. Gray - Engineering Portfolio"
 description: "An engineering portfolio showcasing experience in biomedical optics, image processing, and machine learning."
-baseurl: ""
-url: "https://alexgray103.github.io/AlexG_Portfolio/"
+baseurl: "/AlexG_Portfolio"  # Add the repository name here
+url: "https://alexgray103.github.io"
 
 theme: jekyll-theme-hacker
 include: ["_layouts", "_pages"]
