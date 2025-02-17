@@ -6,21 +6,25 @@ title: Welcome
 # 💻 Welcome to My Portfolio
 ## 🚀 Engineering, Coding, and Innovation
 
-This is a simple Jekyll site using the **Hacker theme**.
-
 - 🔬 **Research in Biomedical Optics**
 - 🤖 **Machine Learning & AI Projects**
 - 🛠 **Engineering & Development**
 
+## 📂 Explore My Work:
+
 ### 🔬 **Projects**
-[![Projects](assets/images/birefringence_corticalInjury.png)](/projects)
+<a href="/projects">
+    <img src="assets/images/projects-thumbnail.jpg" alt="Projects" class="thumbnail">
+</a>
 
 ### 📖 **Publications**
-[![Publications](assets/images/birefringence_corticalInjury.png)](/publications)
+<a href="/publications">
+    <img src="assets/images/publications-thumbnail.jpg" alt="Publications" class="thumbnail">
+</a>
 
 ### ℹ️ **About Me**
-[![About](assets/images/profile.jpg)](/about)
-
----
+<a href="/about">
+    <img src="assets/images/about-thumbnail.jpg" alt="About" class="thumbnail">
+</a>
 
 ---
