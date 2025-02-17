@@ -9,9 +9,10 @@ include: ["_layouts", "_pages"]
 
 # Navigation links
 nav_links:
-  Home: "/"
+  Home: "https://alexgray103.github.io/AlexG_Portfolio"
   About: "/about"
   Projects: "/projects"
+  Publications: "/Publications"
 
 
 
