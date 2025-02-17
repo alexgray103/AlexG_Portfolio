@@ -43,5 +43,5 @@ My research focuses on:
 ## **📧 Get in Touch**
 📩 Email: [algray@bu.edu](mailto:algray@bu.edu)  
 🔗 GitHub: [@alexgray103](https://github.com/alexgray103)  
-📄 [CV/Resume]()
+📄 [CV/Resume](https://alexgray103.github.io/AlexG_Portfolio/assets/files/Alexander_Gray_Resume.pdf)
 ---
