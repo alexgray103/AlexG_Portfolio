@@ -31,17 +31,39 @@ img {
     border-radius: 5px;
     margin: 10px 0;
 }
+/* Grid layout for homepage sections */
+.grid-container {
+    display: flex;
+    justify-content: center;
+    gap: 30px;  /* Space between items */
+    text-align: center;
+    flex-wrap: wrap; /* Allows responsiveness */
+    padding: 20px;
+}
 
-/* Style for thumbnail images */
+/* Each item (Projects, Publications, About) */
+.grid-item {
+    width: 200px; /* Set a fixed width */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Thumbnail images */
 .thumbnail {
-    width: 150px; /* Adjust size */
+    width: 150px;  /* Thumbnail size */
     height: auto;
     display: block;
-    margin: 10px auto; /* Center the images */
-    border-radius: 5px;
+    border-radius: 8px;
     transition: transform 0.2s ease-in-out;
 }
 
 .thumbnail:hover {
-    transform: scale(1.1); /* Slight zoom effect on hover */
+    transform: scale(1.1); /* Hover effect */
+}
+
+/* Headings under thumbnails */
+.grid-item h3 {
+    margin-top: 10px;
+    font-size: 18px;
 }
